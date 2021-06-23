@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "TiemposFineBold";
+    src: url("../fonts/TiemposFineBold.otf") format("opentype");
+    font-weight: 400px;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Quentin";
+    src: url("../fonts/Quentin.otf") format("opentype");
+    font-style: normal;
+    font-weight: 400px;
+}
